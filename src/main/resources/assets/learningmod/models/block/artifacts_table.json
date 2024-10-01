@@ -1,0 +1,6 @@
+{
+  "partent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "learningmod:block/artifacts_table"
+  }
+}
